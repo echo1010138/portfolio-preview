@@ -1,0 +1,1 @@
+import{j as e}from"./index-B305ApW9.js";import{AppleBundleSelection as r}from"./Frame29-CK7lIQWJ.js";import"./assets-hS_1pGYr.js";function m(){return e.jsx(r,{grapesSelected:!0})}export{m as default};
